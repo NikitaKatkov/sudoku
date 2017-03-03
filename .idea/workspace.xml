@@ -26,21 +26,21 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainClass.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/ru/katsoft/MainClass.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="154">
-              <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+              <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Sudoku.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ru/katsoft/Sudoku.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+            <state relative-caret-position="264">
+              <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="method#Sudoku#0;class#Sudoku#0" expanded="false" />
@@ -49,7 +49,7 @@
                 <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-                <element signature="e#9075#9087#0" expanded="false" />
+                <element signature="e#9076#9088#0" expanded="false" />
                 <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
                 <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -65,7 +65,7 @@
                 <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
                 <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-                <element signature="e#32337#32417#0" expanded="false" />
+                <element signature="e#32338#32418#0" expanded="false" />
                 <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
                 <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -81,7 +81,7 @@
                 <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-                <element signature="e#39628#39668#0" expanded="false" />
+                <element signature="e#39629#39669#0" expanded="false" />
                 <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
                 <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -751,7 +751,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -767,7 +767,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -783,7 +783,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -817,7 +817,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -833,7 +833,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -849,7 +849,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -883,7 +883,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -899,7 +899,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -915,7 +915,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -949,7 +949,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -965,7 +965,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -981,7 +981,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1015,7 +1015,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1031,7 +1031,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1047,7 +1047,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1081,7 +1081,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1097,7 +1097,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1113,7 +1113,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1147,7 +1147,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1163,7 +1163,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1179,7 +1179,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1213,7 +1213,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1229,7 +1229,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1245,7 +1245,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1279,7 +1279,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1295,7 +1295,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1311,7 +1311,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1351,7 +1351,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1367,7 +1367,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1383,7 +1383,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1423,7 +1423,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1439,7 +1439,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1455,7 +1455,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1495,7 +1495,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1511,7 +1511,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1527,7 +1527,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1629,18 +1629,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/katsoft/MainClass.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="7" column="32" lean-forward="false" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/katsoft/Sudoku.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="264">
+          <caret line="12" column="40" lean-forward="false" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="method#Sudoku#0;class#Sudoku#0" expanded="false" />
@@ -1649,7 +1641,7 @@
             <element signature="method#initializeField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#printResultToFile#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#9075#9087#0" expanded="false" />
+            <element signature="e#9076#9088#0" expanded="false" />
             <element signature="method#solveRec#1;class#Sudoku#0" expanded="false" />
             <element signature="method#solve#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setTheOnlyPossibleValue#0;class#Sudoku#0" expanded="false" />
@@ -1665,7 +1657,7 @@
             <element signature="method#getIntegerCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getCandidatesAmount#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isTheOnlyCandidate#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#32337#32417#0" expanded="false" />
+            <element signature="e#32338#32418#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#0;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#1;class#Sudoku#0" expanded="false" />
             <element signature="method#getNumberOfCandidates#2;class#Sudoku#0" expanded="false" />
@@ -1681,7 +1673,7 @@
             <element signature="method#addBooleanValuesUnchecked#0;class#Sudoku#0" expanded="false" />
             <element signature="method#addBooleanValues#0;class#Sudoku#0" expanded="false" />
             <element signature="method#substractBooleanValues#0;class#Sudoku#0" expanded="false" />
-            <element signature="e#39628#39668#0" expanded="false" />
+            <element signature="e#39629#39669#0" expanded="false" />
             <element signature="method#areAllNumbersPresent#0;class#Sudoku#0" expanded="false" />
             <element signature="method#inverseBoolean#0;class#Sudoku#0" expanded="false" />
             <element signature="method#setValue#0;class#Sudoku#0" expanded="false" />
@@ -1691,6 +1683,14 @@
             <element signature="method#checkField#0;class#Sudoku#0" expanded="false" />
             <element signature="method#isGameWon#0;class#Sudoku#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/katsoft/MainClass.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+          <folding />
         </state>
       </provider>
     </entry>

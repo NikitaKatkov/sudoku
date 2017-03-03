@@ -5,7 +5,7 @@ import java.io.IOException;
 public class MainClass {
     public static void main(String[] args) {
         // аргументы командной строки: путь к файлу с заданием, путь к файлу с ответом
-        String taskPath = "task9.txt";
+        String taskPath = "task36.txt";
         String resultPath = "result.txt";
         if (args.length == 2) {
             taskPath = args[0];
