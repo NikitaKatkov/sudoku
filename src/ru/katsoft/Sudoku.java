@@ -10,7 +10,7 @@ import java.util.*;
 
 class Sudoku {
     // размер поля, по умолчанию 9*9
-    private final int SIZE_OF_FIELD = 25;
+    private final int SIZE_OF_FIELD = 9;
     // размер квадрата
     private final int SIZE_OF_SQUARE = (int)Math.sqrt(SIZE_OF_FIELD);
     // максимальное количесвто полных обходов поля без добавления новых значений при нерекурсивном решении
